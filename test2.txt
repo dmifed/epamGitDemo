@@ -9,3 +9,4 @@ bbbbbbbbbb
 ccccccccccc
 
 adding conflict in master branch
+add conflict in feature branch
