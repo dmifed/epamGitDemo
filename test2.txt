@@ -7,3 +7,5 @@ klklkl
 aaaaaaaaa
 bbbbbbbbbb
 ccccccccccc
+
+adding conflict in master branch
