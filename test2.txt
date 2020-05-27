@@ -12,3 +12,5 @@ adding conflict in master branch
 add conflict in feature branch
 
 add tag
+
+STASHING --- work in prosess.....
